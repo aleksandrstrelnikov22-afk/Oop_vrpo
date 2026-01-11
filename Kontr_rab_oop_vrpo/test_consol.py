@@ -1,5 +1,4 @@
 from datetime import datetime
-
 from domain.credit_account import CreditAccount
 from domain.purchase import PurchaseTransaction
 from domain.payment import PaymentTransaction
